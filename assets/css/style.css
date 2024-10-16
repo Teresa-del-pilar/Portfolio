@@ -279,7 +279,7 @@ img {
 }
 
 .navbar-brand span {
-    color: #77be2d;
+    color: #e89f74;
     font-weight: 800;
     transition: 0.3s;
     -moz-transition: 0.3s;
@@ -557,7 +557,7 @@ section {
     left: 11px;
     width: 60px;
     height: 60px;
-    background: #77be2d;
+    background: #e89f74;
     z-index: -1;
     transition: 0.2s ease-out;
     transform: rotate(45deg);
@@ -622,7 +622,7 @@ section {
 
 .filters li.active {
     color: #fff;
-    background-color: #77be2d;
+    background-color: #e89f74;
 }
 
 .filters li span {
@@ -695,7 +695,7 @@ section {
     left: 50%;
     width: 80px;
     height: 80px;
-    background: #77be2d;
+    background: #e89f74;
     z-index: -1;
     transition: 0.2s ease-out;
     margin-left: -40px;
@@ -753,7 +753,7 @@ section {
     left: 50%;
     width: 60px;
     height: 60px;
-    background: #77be2d;
+    background: #e89f74;
     z-index: -1;
     transition: 0.2s ease-out;
     margin-left: -30px;
@@ -965,7 +965,7 @@ section {
     left: 50%;
     width: 36px;
     height: 36px;
-    background-color: #77be2d;
+    background-color: #e89f74;
     z-index: 1;
     transition: 0.2s ease-out;
     margin-left: -18px;
