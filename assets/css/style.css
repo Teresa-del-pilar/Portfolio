@@ -83,7 +83,7 @@ a {
 }
 
 a:hover {
-    color: #fff;
+    color: #ac9a8a;
     text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ fieldset {
     padding: 10px 25px;
     border: none;
     color: #fff;
-    background: #77be2d;
+    background: #e89f74;
     font-weight: 600;
     letter-spacing: 0.5px;
     transition: 0.3s;
@@ -368,7 +368,7 @@ img {
     display: inline;
     font-weight: 900;
     font-size: 100px;
-    color: #77be2d;
+    color: #e89f74;
 }
 
 .typed-cursor {
@@ -861,7 +861,7 @@ section {
     width: 20px;
     text-align: center;
     line-height: 45px;
-    color: #77be2d;
+    color: #e89f74;
 }
 
 .in_name:before {content: '\f007';}
@@ -883,7 +883,7 @@ section {
 
 .success {
     background: #fff none repeat scroll 0 0;
-    color: #50B948;
+    color: #e89f74;
     font-weight: 700;
     padding: 20px;
     text-align: center;
