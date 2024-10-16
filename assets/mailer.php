@@ -21,10 +21,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "amandrd05@gmail.com";
+        $recipient = "teresadelpilarbajo@gmail.com";
 
         // Set the email subject.
-        $subject = "New contact from profil";
+        $subject = "New contact from Website";
 
         // Build the email content.
         $email_content = "Name: $name\n";
@@ -38,7 +38,7 @@
         if (mail($recipient, $subject, $email_content, $email_headers)) {
             // Set a 200 (okay) response code.
             http_response_code(200);
-            echo "Thank You! Your message has been sent.";
+            echo "Thank You! Your message has been sent. I will get back to you ASAP.";
         } else {
             // Set a 500 (internal server error) response code.
             http_response_code(500);
@@ -48,7 +48,7 @@
     } else {
         // Not a POST request, set a 403 (forbidden) response code.
         http_response_code(403);
-        echo "There was a problem with your submission, please try again.";
+        echo "There was a problem with your submission, please try again or send your mail directly to teresadelpilarbajo@gmail.com.";
     }
 
 ?>
